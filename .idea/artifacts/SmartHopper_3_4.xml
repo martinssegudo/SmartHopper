@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SmartHopper-3.4">
+    <output-path>$PROJECT_DIR$/../../../Servidor/1.16.5/SmartHopper/plugins</output-path>
+    <root id="archive" name="SmartHopper-3.4.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/grupo.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/pt_br.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/pt_pt.yml" />
+      <element id="module-output" name="SmartHopper.main" />
+    </root>
+  </artifact>
+</component>
