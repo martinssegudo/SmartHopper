@@ -6,6 +6,7 @@ import mc.elderbr.smarthopper.utils.Msg;
 import org.bukkit.Material;
 import org.bukkit.block.Block;
 import org.bukkit.block.Hopper;
+import org.bukkit.event.inventory.InventoryType;
 import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;

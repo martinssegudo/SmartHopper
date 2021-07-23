@@ -10,10 +10,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12109b36-73cd-4704-a5ea-8e7e064a0b38" name="Default Changelist" comment="Alterando a versão do plugin para 3.4">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SmartHopper_3_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/SmartHopper_3_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/pt_br.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/pt_br.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/pt_pt.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/pt_pt.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/mc/elderbr/smarthopper/event/MoveHopper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/mc/elderbr/smarthopper/event/MoveHopper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/mc/elderbr/smarthopper/model/SmartHopper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/mc/elderbr/smarthopper/model/SmartHopper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mc/elderbr/smarthopper/event/MoveHopper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mc/elderbr/smarthopper/event/MoveHopper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mc/elderbr/smarthopper/model/SmartHopper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mc/elderbr/smarthopper/model/SmartHopper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +103,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Spigot/spigot-1.16.5.jar" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.39771548" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -207,7 +212,7 @@
     </configuration>
     <configuration name="SmartHopper" type="JarApplication">
       <option name="JAR_PATH" value="$PROJECT_DIR$/../../../Spigot/spigot-1.16.5.jar" />
-      <option name="VM_PARAMETERS" value="-Xmx1024M" />
+      <option name="VM_PARAMETERS" value="-Xmx512M" />
       <option name="PROGRAM_PARAMETERS" value="nogui" />
       <option name="WORKING_DIRECTORY" value="C:\Users\elder\Documents\Minecraft\Servidor\1.16.5\Smart Hopper" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
